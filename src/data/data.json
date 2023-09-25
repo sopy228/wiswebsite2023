@@ -1,0 +1,231 @@
+{
+  "Header": {
+    "title": "Women in Science",
+    "paragraph": "Dedictated to supporting and encouraging women in the Faculty of Science at Western University"
+  },
+  "About": {
+    "paragraph": "Women in Science (WiS) at Western University is a student-led organization dedicated to supporting and encouraging women in the Faculty of Science. We aim to foster a vibrant community of friendship, leadership and mentorship to bridge connections and showcase talented women in our community. We value the impact of mentorship and community, and we aim to connect young women with their peers, as well as with mentors established in their fields. Research has proven the invaluable impact of mentorship on female scientists, and it is our hope that these connections will inspire a generation of women to continue pursing their dream careers in STEM. We support the inclusivity and continued contributions of women in hard sciences, while encouraging male participation in stereotypical “feminine” fields, and promoting gender non-conforming people in all scientific endeavours. ",
+    "Why": [
+      "Identify: We seek to identify and eliminate the sources of gender disparity in the fields of science, technology, engineering and mathematics (STEM)",
+      "Connection: We aim to connect young women with their peers, as well as with mentors established in their fields. It is our hope that these connections will inspire a generation of women to continue pursing their dream careers in STEM"
+    ],
+    "Why2": [
+      "Inclusivity: We aim to encourage inclusivity and continued contributions of women in scientific enterprise, starting on the Western University campus", 
+      "Community: We aim to build community through academic and social events. We encourage open-hearted conversations, while providing a safe, welcoming environment for open-minded learning from each other"
+
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Halloween Social",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Connect 3.0",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Stemposium",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Study Night",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Trivia Night",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Guided Imagery and Meditation Session",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Linkedin Workshop",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Yoga Destressor",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Scholarship Guide",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/marisa.jpg",
+      "name": "Marisa Garach",
+      "job": "Co-President"
+    },
+    {
+      "img": "img/team/nat.jpg",
+      "name": "Nat Chow",
+      "job": "Co-President"
+    },
+    {
+      "img": "img/team/julia.jpg",
+      "name": "Julia Nguyen",
+      "job": "VP Internal"
+    },
+    {
+      "img": "img/team/jocelyn.jpg",
+      "name": "Jocelyn Ba",
+      "job": "VP Internal"
+    },
+    {
+      "img": "img/team/clara.jpg",
+      "name": "Clara Sun",
+      "job": "VP External"
+    }, 
+    {
+      "img": "img/team/zeba.jpg",
+      "name": "Zeba Rizvi",
+      "job": "VP Comms"
+    },
+    {
+      "img": "img/team/janice.jpg",
+      "name": "Janice Liang",
+      "job": "VP Admin"
+    },
+    {
+      "img": "img/team/kate.jpg",
+      "name": "Kate Park",
+      "job": "VP Technology"
+    },
+    {
+      "img": "img/team/iris.jpg",
+      "name": "Iris Kwon",
+      "job": "VP Design"
+    },
+    {
+      "img": "img/team/katya.jpg",
+      "name": "Katya Ferreira",
+      "job": "VP Finance"
+    },
+    {
+      "img": "img/team/michelle.jpg",
+      "name": "Michelle Pham",
+      "job": "VP Sponsorship"
+    },
+    {
+      "img": "img/team/lise.jpg",
+      "name": "Lise Rutherford",
+      "job": "VP Mentorship"
+    },
+    {
+      "img": "img/team/addy.jpg",
+      "name": "Addy Lagunju",
+      "job": "VP Ethics and Advocacy"
+    },
+    {
+      "img": "img/team/rihana.jpg",
+      "name": "Rihana Kukkadi",
+      "job": "VP Ethics and Advocacy"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
