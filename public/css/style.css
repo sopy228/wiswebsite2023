@@ -362,6 +362,11 @@ img {
 #join .service-desc {
   margin-bottom: 40px;
 }
+
+#join .section-title a {
+  font-weight: 800;
+}
+
 /* events Section */
 #events {
   padding: 100px 0;
