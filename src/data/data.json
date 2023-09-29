@@ -128,73 +128,93 @@
   ],
   "Team": [
     {
-      "img": "img/team/marisa.jpg",
-      "name": "Marisa Garach",
+      "img": "img/team/emma.png",
+      "name": "Emma Punkari",
       "job": "Co-President"
     },
     {
-      "img": "img/team/nat.jpg",
-      "name": "Nat Chow",
+      "img": "img/team/camryn.png",
+      "name": "Camryn Kabir-Bahk",
       "job": "Co-President"
     },
     {
-      "img": "img/team/julia.jpg",
-      "name": "Julia Nguyen",
+      "img": "img/team/natasha.png",
+      "name": "Natasha Bruce",
+      "job": "Senior Advisor"
+    },
+    {
+      "img": "img/team/hannah.png",
+      "name": "Hannah Lye",
       "job": "VP Internal"
     },
     {
-      "img": "img/team/jocelyn.jpg",
-      "name": "Jocelyn Ba",
+      "img": "img/team/kayla.png",
+      "name": "Kayla TenHag",
       "job": "VP Internal"
     },
     {
-      "img": "img/team/clara.jpg",
-      "name": "Clara Sun",
+      "img": "img/team/cristina.png",
+      "name": "Cristina White",
       "job": "VP External"
     }, 
     {
-      "img": "img/team/zeba.jpg",
-      "name": "Zeba Rizvi",
+      "img": "img/team/emaan.png",
+      "name": "Emaan Rana",
+      "job": "VP External"
+    }, 
+    {
+      "img": "img/team/bobo.png",
+      "name": "Bobo Soong",
       "job": "VP Comms"
     },
     {
-      "img": "img/team/janice.jpg",
-      "name": "Janice Liang",
+      "img": "img/team/claudia.png",
+      "name": "Claudia Drewitt",
+      "job": "VP Comms"
+    },
+    {
+      "img": "img/team/kirsten.png",
+      "name": "Kirsten Favreau",
       "job": "VP Admin"
     },
     {
-      "img": "img/team/kate.jpg",
-      "name": "Kate Park",
+      "img": "img/team/sophia.png",
+      "name": "Sophia Yuan",
       "job": "VP Technology"
     },
     {
-      "img": "img/team/iris.jpg",
-      "name": "Iris Kwon",
+      "img": "img/team/samantha.png",
+      "name": "Samantha Romero",
       "job": "VP Design"
     },
     {
-      "img": "img/team/katya.jpg",
-      "name": "Katya Ferreira",
+      "img": "img/team/sadia.png",
+      "name": "Sadia Bahadoor",
       "job": "VP Finance"
     },
     {
-      "img": "img/team/michelle.jpg",
-      "name": "Michelle Pham",
+      "img": "img/team/addisyn.png",
+      "name": "Addisyn Smith",
       "job": "VP Sponsorship"
     },
     {
-      "img": "img/team/lise.jpg",
-      "name": "Lise Rutherford",
+      "img": "img/team/cassidy.png",
+      "name": "Cassidy Coderre",
       "job": "VP Mentorship"
     },
     {
-      "img": "img/team/addy.jpg",
-      "name": "Addy Lagunju",
+      "img": "img/team/anusha.png",
+      "name": "Anusha Merchant",
+      "job": "VP Mentorship"
+    },
+    {
+      "img": "img/team/diana.png",
+      "name": "Diana Abdolmaleki",
       "job": "VP Ethics and Advocacy"
     },
     {
-      "img": "img/team/rihana.jpg",
-      "name": "Rihana Kukkadi",
+      "img": "img/team/karolin.png",
+      "name": "Karolin Volodko",
       "job": "VP Ethics and Advocacy"
     }
   ],
