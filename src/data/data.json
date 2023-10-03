@@ -130,92 +130,164 @@
     {
       "img": "img/team/emma.png",
       "name": "Emma Punkari",
-      "job": "Co-President"
+      "job": "Co-President",
+      "year": "Year and Program: 4th year Honours Spec Biology",
+      "why": "Why you joined wis: To form more connections in the field with other like-minded individuals, and increase the strength and size of the support network in the women in science community at Western.",
+      "goal": "Goal for the year: Facilitate closer connections within WiS to foster a more connected community, as well as informing more people about the many different pathways for careers in science besides the common ones we hear about all the time.",
+      "fact": "Fun fact about yourself:  I have been playing the violin since I was 4 years old!"
     },
     {
       "img": "img/team/camryn.png",
       "name": "Camryn Kabir-Bahk",
-      "job": "Co-President"
+      "job": "Co-President",
+      "year": "Year and program: 4th year HSP Epidemiology and Biostatistics",
+      "why": "Why you joined wis: I wanted to surround myself with like-minded individuals who also wanted to create a welcoming and diverse environment for people with a passion for all things science!",
+      "goal": "Goal for the year: Hoping to strengthen the relationships and mentorship connections within our lovely Women in Science community and increase our presence on the Western Campus to involve more students.",
+      "fact": "Fun fact about yourself: I survived the Great War and managed to get Eras Tour tickets for Toronto… this will be my personality for the next year and a half."
     },
     {
       "img": "img/team/natasha.png",
       "name": "Natasha Bruce",
-      "job": "Senior Advisor"
+      "job": "Senior Advisor",
+      "year": "Year and program: Double Major IMS and Biochemistry",
+      "why": "Why you joined wis: I joined WiS because its friendly and supportive environment that helped me find research opportunities and overall made me a better student and leader.",
+      "goal": "Goal for the year: To provide Western students with invaluable experiences that are certain to assist them in achieving their future aspirations, all the while creating lasting memories and friendships.",
+      "fact": "Fun fact about yourself: I have rewatched Bobs Burgers 4 times"
     },
     {
       "img": "img/team/hannah.png",
       "name": "Hannah Lye",
-      "job": "VP Internal"
+      "job": "VP Internal",
+      "year": "Year and program: 4th Year Synthetic Biology",
+      "why": "Why you joined wis: As a general member I had benefited extremely from the professional development opportunities given, it made me want to get involved.",
+      "goal": "Goal for the year: To maximise attendance at events to reach a wider group of women!",
+      "fact": "Fun fact about yourself: I have an identical twin"
     },
     {
       "img": "img/team/kayla.png",
       "name": "Kayla TenHag",
-      "job": "VP Internal"
+      "job": "VP Internal",
+      "year": "Year and program: 3rd year, Hsp Path",
+      "why": "Why you joined wis: Wis has given me so many unique opportunities! I now hope to help provide similar opportunities to other students :)",
+      "goal": "Goal for the year: To host exciting and meaningful events that are a welcoming space for everyone :)",
+      "fact": "Fun fact about yourself: I can dislocate my shoulder."
     },
     {
       "img": "img/team/cristina.png",
       "name": "Cristina White",
-      "job": "VP External"
+      "job": "VP External",
+      "year": "Year and program: 3rd year, Honours Spec in IMS",
+      "why": "Why you joined wis: WiS helped me so much through my first year with their mentorship and events! I joined so I could be a part of that and give those opportunities to others :)",
+      "goal": "Goal for the year: To bring more events to Western that work with the London community so everyone can get involved!",
+      "fact": "Fun fact about yourself: I love painting but I never have the time."
     }, 
     {
       "img": "img/team/emaan.png",
       "name": "Emaan Rana",
-      "job": "VP External"
+      "job": "VP External",
+      "year": "Year and program: 3rd year, Honours Spec in Pathology",
+      "why": "Why you joined wis: I didnt have an initiative like WiS during high school so I decided to join in my first year to help learn more about this community and give back! I had an amazing time connecting with everyone and WiS truly made my transition to university much smoother.",
+      "goal": "Goal for the year: To host multiple events with local London organizations as we continue to foster interest in STEM for women of all ages.",
+      "fact": "Fun fact about yourself: Ive road tripped to BC twice with my family and cant wait to go again"
     }, 
     {
       "img": "img/team/bobo.png",
       "name": "Bobo Soong",
-      "job": "VP Comms"
+      "job": "VP Comms",
+      "year": "Year and program: 3rd year, Biology and Pharmacology",
+      "why": "Why you joined wis: I wanted to join a team of like-minded people that could help me enjoy my time in university while helping me grow as an individual.",
+      "goal": "Goal for the year: To create a supportive network to help our members pursue their interest within the field of science.",
+      "fact": "Fun fact about yourself: I can speak 3 other languages"
     },
     {
       "img": "img/team/claudia.png",
       "name": "Claudia Drewitt",
-      "job": "VP Comms"
+      "job": "VP Comms",
+      "year": "Year and program: 3rd year, Honours Spec. in IMS and Major in Physiology",
+      "why": "Why you joined wis: Initially I joined WiS through the Sisters in Science Mentorship Program as a mentee. It made an incredible impact in my life and I wanted to share that with others.",
+      "goal": "Goal for the year: To reach more Western individuals through our social media!",
+      "fact": "I have visited almost 20 countries!"
     },
     {
       "img": "img/team/kirsten.png",
       "name": "Kirsten Favreau",
-      "job": "VP Admin"
+      "job": "VP Admin",
+      "year": "Year and program: 4th year HBsc. Medical Cell Biology & English",
+      "why": "Why you joined wis: So I could be a part of a community committed to breaking down barriers for others and making STEM fields more inclusive :)",
+      "goal": "Goal for the year: To reach as many students as possible and form strong connections with other STEM clubs on campus.",
+      "fact": "Fun fact about yourself: I am a tap dancer"
     },
     {
       "img": "img/team/sophia.png",
       "name": "Sophia Yuan",
-      "job": "VP Technology"
+      "job": "VP Technology",
+      "year": "Year and program: 2nd year Comp Sci",
+      "why": "Why you joined wis: I joined WIS because I want to help empower and connect with other like-minded individuals!",
+      "goal": "Goal for the year: To keep the website active and streamline updating processes.",
+      "fact": "Fun fact about yourself: Ive seen Harry Potter and the Deathly Hallows pt2 more than 6 times"
     },
     {
       "img": "img/team/samantha.png",
       "name": "Samantha Romero",
-      "job": "VP Design"
+      "job": "VP Design",
+      "year": "Year and program: 4th year, Computer Science w a Certificate in Digital Communications",
+      "why": "Why you joined wis: I joined WiS for the opportunity to be creative, to increase student engagement, and to gain a greater sense of community here at Western! This will be my 4th year on the WiS team and I’m so excited for another year of supporting women in science at Western!",
+      "goal": "Goal for the year: My goal for the year is to meet more women in science at Western!",
+      "fact": "Fun fact about yourself: Ive seen the Barbie movie 4 times in theatres! <3"
     },
     {
       "img": "img/team/sadia.png",
       "name": "Sadia Bahadoor",
-      "job": "VP Finance"
+      "job": "VP Finance",
+      "year": "Year and program: 4th year, Computer Science with a French minor",
+      "why": "Why you joined wis: I joined WIS to feel a greater sense of community at Western.",
+      "goal": "Goal for the year: My goal for the year is to attend all of the WIS events at Western since theyre such a great way to meet people.",
+      "fact": "Fun fact about yourself: Im from the island of the Dodo bird!"
     },
     {
       "img": "img/team/addisyn.png",
       "name": "Addisyn Smith",
-      "job": "VP Sponsorship"
+      "job": "VP Sponsorship",
+      "year": "Year and program: 4th year Medical Sciences, IMS and microbiology and immunology",
+      "why": "Why you joined wis: I joined WiS in order to meet like-minded individuals within Western’s community that were passionate about building a positive and supportive environment for women who are pursuing a higher education and careers in science.",
+      "goal": "Goal for the year: This year with sponsorship, we would like to collaborate with non-profits that align with our WiS pillars, powering meaningful connections within our community.",
+      "fact": "Fun fact about yourself: I billeted with a family to play on a jr. hockey team away from home during highschool"
     },
     {
       "img": "img/team/cassidy.png",
       "name": "Cassidy Coderre",
-      "job": "VP Mentorship"
+      "job": "VP Mentorship",
+      "year": "Year and program: 4th year, Medical Sciences with an Honours Spec in Biochemistry",
+      "why": "Why you joined wis: I joined WiS as a mentor in my second year of university to give advice to those struggling in high school as I myself would have loved more support during that time and found a sense of community within WiS that I have loved ever since!",
+      "goal": "Goal for the year: To create a more impactful sense of community within the mentorship program and foster a sense of intergenerational mentoring.",
+      "fact": "Fun fact about yourself: I have two Pomeranians named Bella and Cocoa"
     },
     {
       "img": "img/team/anusha.png",
       "name": "Anusha Merchant",
-      "job": "VP Mentorship"
+      "job": "VP Mentorship",
+      "year": "Year and program: 4th year, Medical Sciences - HSP IMS",
+      "why": "Why you joined wis: I wanted to learn more about possible pathways after graduation so I joined the Graduate Sisters in Science mentorship program as a mentee in my third year. My mentor was extremely helpful and made the program a very positive experience for me. This year I want to help support others through mentorship who are in the same position that I was once in!",
+      "goal": "Goal for the year: To increase engagement in all streams of the WiS mentorship program and provide more networking opportunities for those involved.",
+      "fact": "Fun fact about yourself: I once recited the entire Alphabet backwards to help my team win a Minute-to-Win-It competition."
     },
     {
       "img": "img/team/diana.png",
       "name": "Diana Abdolmaleki",
-      "job": "VP Ethics and Advocacy"
+      "job": "VP Ethics and Advocacy",
+      "year": "Year and program: 3rd year, Medical Sciences with Honours Specialization in Microbiology & Immunology",
+      "why": "Why you joined wis: To ensure that no one in the Western community feels underestimated within their field due to their gender identity.",
+      "goal": "Goal for the year: Spread awareness about the struggles many groups of people go through!",
+      "fact": "Fun fact about yourself: I can recite Shrek 2 by memory."
     },
     {
       "img": "img/team/karolin.png",
       "name": "Karolin Volodko",
-      "job": "VP Ethics and Advocacy"
+      "job": "VP Ethics and Advocacy",
+      "year": "Year and program: 4th year Biochemistry and Genetics",
+      "why": "Why you joined wis: To be surrounded with like-minded individuals that are striving to further the Western community through collaboration, open-mindedness, and determination to create a welcoming club that focuses on creating a sense of community.",
+      "goal": "Goal for the year: To emphasize that regardless of gender identity, everyone has a place in WiS and will have the support to make their voices heard.",
+      "fact": "Fun fact about yourself: I've watched Kung Fu Panda more than 8 times because of my love for Pandas."
     }
   ],
   "Contact": {

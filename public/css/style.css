@@ -426,21 +426,79 @@ img {
   padding: 100px 0;
   background-image: linear-gradient(-225deg, #5271C4 0%, #B19FFF 48%, #ECA1FE 100%);}
   
-  #team h4 {
+#team h4 {
   margin: 5px 0;
 }
 #team .team-img {
-  width: 250px;
-  height: 250px;
+  border-radius: 15px;
 }
+
+#team .team-img-back {
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+  opacity: 40%;
+  border-radius: 15px;
+}
+
 #team .thumbnail {
   background: transparent;
   border: 0;
+  width: 250px;
+  height: 250px;
+  margin-bottom: 100px;
 }
-#team .thumbnail .caption {
-  padding: 10px 0 0;
-  color: #333;
+
+#team .flip-card {
+  width: 100%;
+  max-height: 250px; 
+  perspective: 1000px;
 }
+
+#team .flip-card-inner {
+  width: 100%;
+  height: 100%;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+
+#team .flip-card:hover .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+#team .flip-card-front {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  backface-visibility: hidden;
+}
+
+#team .flip-card-back {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  backface-visibility: hidden;
+  transform: rotateY(180deg);
+}
+
+#team .overlay-text {
+  position: absolute;
+  top: 5%;
+  left: 5%;
+  color: #fff;
+  text-align: left;
+  max-width: 100%;
+  font-size: 14px;
+  max-height: 215px;
+  word-wrap: break-word;
+  overflow: scroll;
+  font-weight: bold;
+}
+
+#team .overlay-text p {
+  font-size: 100%;
+  line-height: 1.5;
+}
+
 /* Contact Section */
 #contact {
   padding: 100px 0 60px;
