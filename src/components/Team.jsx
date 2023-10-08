@@ -11,6 +11,7 @@ export const Team = (props) => {
     setHoveredIndex(null);
   };
 
+
   return (
     <div id='team' className='text-center'>
       <div className='container'>
@@ -38,10 +39,12 @@ export const Team = (props) => {
                         <div className='flip-card-back'>
                           <img src={d.img} alt='...' className='team-img-back' />
                           <div class="overlay-text">
-                            <p>{d.year}</p>
-                            <p>{d.why}</p>
-                            <p>{d.goal}</p>
-                            <p>{d.fact}</p>
+                            <div class="scroll">
+                              <p>{d.year}</p>
+                              <p>{d.why}</p>
+                              <p>{d.goal}</p>
+                              <p>{d.fact}</p>
+                            </div>
                           </div>
                         </div>
                       </div>
