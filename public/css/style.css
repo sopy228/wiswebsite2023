@@ -430,13 +430,13 @@ img {
   margin: 5px 0;
 }
 #team .team-img {
-  border-radius: 15px;
+  border-radius: 8px;
   width: 250px;
   height: 250px;
   margin: 0 auto;
 }
 #team .team-img-back {
-  border-radius: 15px;
+  border-radius: 8px;
   width: 250px;
   height: 250px;
   margin: 0 auto;
